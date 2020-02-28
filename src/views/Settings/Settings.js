@@ -3,6 +3,7 @@ import { makeStyles } from '@material-ui/styles';
 import { Grid } from '@material-ui/core';
 import HeaderImageScrollView, { TriggeringView } from 'react-native-image-header-scroll-view';
 
+
 import { Notifications, Password } from './components';
 
 const useStyles = makeStyles(theme => ({
